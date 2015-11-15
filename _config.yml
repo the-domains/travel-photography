@@ -1,0 +1,23 @@
+name: Travel Photography
+favicon: null
+layout_spectrum: 0.895002796780318
+typography_spectrum: 0.3864377182908356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.655991007341072
+  lightness: 0.8966591798234731
+  saturation: 0.401336036156863
+  rhythmicContrast: 0.6491440301761031
+purpose: []
